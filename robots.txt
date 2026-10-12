@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://glowlashstudio.com/sitemap.xml
+Sitemap: https://norabeautylounge.com/sitemap.xml
