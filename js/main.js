@@ -1,4 +1,4 @@
-/* Glow Lash Lounge — shared behaviors (no dependencies) */
+/* Nora Beauty Lounge: shared behaviors (no dependencies) */
 (function () {
   "use strict";
 
